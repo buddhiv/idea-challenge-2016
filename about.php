@@ -31,7 +31,7 @@
         <div id="top" class="clearfix">
 
             <div id="logo"> <!-- Logo -->
-                <a href="index.html"><img alt="" src="images/logo.png"></a>
+                <a href="index.php"><img alt="" src="images/logo.png"></a>
             </div>
             <aside>
                 <ul> <!-- Social Icons -->
@@ -43,11 +43,11 @@
         <div id="menu" class="clearfix"> <!-- Navigation -->
             <nav class="navigation">
                 <ul class="sf-menu">
-                    <li><a href="index.html">Home</a></li>
-                    <li class="active"><a href="about.html">About</a></li>
-                    <li><a href="videos.html">Videos</a></li>
-                    <li><a href="register.html">Register</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li class="active"><a href="about.php">About</a></li>
+                    <li><a href="videos.php">Videos</a></li>
+                    <li><a href="register.php">Register</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
         </div>

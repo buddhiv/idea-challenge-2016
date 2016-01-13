@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Register | IDEA Challenge 2016</title>
+    <title>Videos | IDEA Challenge 2016</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -31,7 +31,7 @@
         <div id="top" class="clearfix">
 
             <div id="logo"> <!-- Logo -->
-                <a href="index.html"><img alt="" src="images/logo.png"></a>
+                <a href="index.php"><img alt="" src="images/logo.png"></a>
             </div>
             <aside>
                 <ul> <!-- Social Icons -->
@@ -43,11 +43,11 @@
         <div id="menu" class="clearfix"> <!-- Navigation -->
             <nav class="navigation">
                 <ul class="sf-menu">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="videos.html">Videos</a></li>
-                    <li class="active"><a href="register.html">Register</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li class="active"><a href="videos.php">Videos</a></li>
+                    <li><a href="register.php">Register</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -59,9 +59,8 @@
         <div id="inner-content" class="container">
             <div id="about">
                 <div class="row-fluid">
-                    <h1>Registrations will be available soon</h1>
+                    <h1>Videos will be available soon</h1>
                 </div>
-
             </div>
 
         </div>
