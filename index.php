@@ -37,7 +37,7 @@
 
             <aside style="margin-top: -20px;">
                 <ul>
-                    <li><a href="https://www.facebook.com/IeslIdeaChallenge"><img alt="fbimage" src="./images/fbook.png"
+                    <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt="fbimage" src="./images/fbook.png"
                                                                                   style=""></a></li>
                 </ul>
             </aside>
