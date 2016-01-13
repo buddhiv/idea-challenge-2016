@@ -27,31 +27,7 @@
     </div>
 
     <!-- Header -->
-    <header>
-        <div id="top" class="clearfix">
-
-            <div id="logo"> <!-- Logo -->
-                <a href="index.php"><img alt="" src="images/logo.png"></a>
-            </div>
-            <aside>
-                <ul> <!-- Social Icons -->
-                    <li><a href="#"><img alt="" src="images/fb.png"></a></li>
-                </ul>
-            </aside>
-        </div>
-
-        <div id="menu" class="clearfix"> <!-- Navigation -->
-            <nav class="navigation">
-                <ul class="sf-menu">
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About</a></li>
-                    <li><a href="videos.php">Videos</a></li>
-                    <li class="active"><a href="register.php">Register</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+    <?php include 'header.php';?>
     <!-- End Header -->
 
     <!-- content -->
@@ -68,15 +44,7 @@
     </div>
 
     <!-- Footer -->
-    <footer class="clearfix">
-        <div class="end">
-            <div class="back-to-top">
-                <img alt="" src="images/back-to-top.png">
-
-                <p>&copy; Copyright 2016 IDEA Challenge | All Rights Reserved</p>
-            </div>
-        </div>
-    </footer>
+    <?php include 'footer.php';?>
     <!-- End Footer -->
 
 </div>
