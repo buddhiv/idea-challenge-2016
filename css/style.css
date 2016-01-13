@@ -811,7 +811,7 @@ section.slider div {
 	font-size: 13px;
 	color: #535353;
 	line-height: 20px;
-	max-height: 100px;
+	height: 100px;
 	overflow: hidden;
 	margin-bottom: 16px;
 }
@@ -1321,8 +1321,8 @@ article.about p {
 
 .articles img,
 .articles1 img {
-	width: 32px !important;
-	height: 32px !important;
+	width: 32px;
+	height: 32px;
 }
 
 .articles h2,

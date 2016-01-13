@@ -28,7 +28,33 @@
     </div>
 
     <!-- Header -->
-    <?php include 'header.php'; ?>
+    <header>
+        <div id="top" class="clearfix">
+
+            <div id="logo" style="margin-bottom: 15px; margin-top: -30px;">
+                <a href="index.php"><img alt="" src="images/logo.png" style="height: 50px"></a>
+            </div>
+
+            <aside style="margin-top: -20px;">
+                <ul>
+                    <li><a href="https://www.facebook.com/IeslIdeaChallenge"><img alt="fbimage" src="./images/fbook.png"
+                                                                                  style=""></a></li>
+                </ul>
+            </aside>
+        </div>
+
+        <div id="menu" class="clearfix"> <!-- Navigation -->
+            <nav class="navigation">
+                <ul class="sf-menu">
+                    <li class="active"><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="videos.php">Videos</a></li>
+                    <li><a href="register.php">Register</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
     <!-- End Header -->
 
     <!-- Slider -->
@@ -75,7 +101,7 @@
                 <div class="span3">
                     <h4 style="color: #7da817;"><span style="font-size: 40px;">D</span>rop Doubts</h4>
 
-                    <p><br/>Drop your doubts and solve your problems with the help of dozens.<br/><br/></p>
+                    <p><br/>Drop your doubts and solve your problems with the help of dozens.</p>
                 </div>
 
                 <div class="span3">
@@ -119,20 +145,20 @@
 
             <div class="row-fluid articles" id="articles">
                 <div class="span3">
-                    <img alt="iesl" src="images/iesl-logo.png"/>
+                    <img alt="iesl" src="images/iesl-logo.png" style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
                     <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge by
                         working with them.</p>
                 </div>
 
                 <div class="span3">
-                    <img alt="iesl" src="images/iesl-logo.png"/>
+                    <img alt="iesl" src="images/iesl-logo.png" style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
                     <p><br/>Drop your doubts and solve your problems with the help of dozens.<br/><br/></p>
                 </div>
 
                 <div class="span3">
-                    <img src="images/uom-logo.png" alt="uom"/>
+                    <img src="images/uom-logo.png" alt="uom" style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
                     <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them with
                         what
@@ -140,7 +166,7 @@
                 </div>
 
                 <div class="span3">
-                    <img src="images/cse-logo.png" alt="cse" height="80"/>
+                    <img src="images/cse-logo.png" alt="cse" style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
                     <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together with
                         latest
