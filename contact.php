@@ -35,7 +35,9 @@
             </div>
             <aside style="margin-top: -20px;">
                 <ul> <!-- Social Icons -->
-                    <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt="" src="images/fb.png"></a></li>
+                    <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt=""
+                                                                                                  src="images/fb.png"></a>
+                    </li>
                 </ul>
             </aside>
         </div>
@@ -58,46 +60,47 @@
     <div id="content" style="margin-top: 40px;">
         <div id="inner-content" class="container">
             <div id="contact" class="row-fluid">
-                <!--<div class="span12">-->
-                <!--<h1>Contact Us</h1>-->
 
-                <!--<p>Quisque malesuada aliquam vulputate. Cras pulvinar erat ac velit eleifend porttitor at eu diam.-->
-                <!--Praesent elit mi, mattis vitae accumsan bibendum, porttitor non neque. Phasellus dignissim-->
-                <!--sagittis felis vel rutrum. Sed eget mi in massa luctus aliquam. In tincidunt scelerisque turpis-->
-                <!--placerat interdum. Donec convallis diam dolor, eu mollis magna. Aliquam a ante risus. Aliquam-->
-                <!--dapibus, lacus eu tristique congue, eros enim tempor nisl, at tempus enim erat nec leo. Ut ac-->
-                <!--tellus purus, eget pulvinar mauris. Maecenas tincidunt lectus at purus adipiscing id dapibus-->
-                <!--lectus vestibulum.</p>-->
-                <!--</div>-->
-
-                <div class="row-fluid">
+                <div class="row-fluid" style="position: relative; top: -20px">
                     <div class="span8">
                         <h1 style="color: black;">Send us a message</h1>
 
-                        <form id="contact-form">
-                            <label id="label" for="name"></label><input name="name" id="name" type="text"
-                                                                        placeholder="Name" value="">
-                            <label id="label1" for="mail"></label><input name="mail" id="mail" type="text"
-                                                                         placeholder="mail" value="">
-                            <label id="label2" for="website"></label><input name="website" id="website" type="text"
-                                                                            placeholder="website" value="">
-                            <textarea name="comment" placeholder="Message"></textarea>
+                        <div style="position: relative; top: 10px;">
+                            <form id="contact-form" action="php/contact_action.php" method="post">
+                                <label id="label" for="name"></label>
+                                <input name="name" id="name" type="text" placeholder="Name" value=""
+                                       style="width: 550px">
 
-                            <div id="msg" class="message"></div>
-                            <input type="submit" id="submit" value="Send">
-                        </form>
+                                <label id="label1" for="mail"></label>
+                                <input name="mail" id="mail" type="text" placeholder="Email" value=""
+                                       style="width: 550px">
+
+                                <label id="label2" for="subject"></label>
+                                <input name="subject" id="subject" type="text" placeholder="Subject" value=""
+                                       style="width: 550px">
+
+                                <textarea id="message" name="message" placeholder="Message"></textarea>
+
+                                <div id="msg" class="message"></div>
+                                <input type="submit" id="submit" value="Send"/>
+                            </form>
+                        </div>
                     </div>
 
                     <div class="span4">
                         <h1 style="color: black;">For more info</h1>
 
-                        <div>
+                        <div style="position: relative; top: 10px;">
                             <h6 style="margin-bottom: 5px; margin-top: 15px;">Lakshan Gamage</h6>
+
                             <p><img alt="" src="images/contact2.png">071 252 4923</p>
+
                             <p><img alt="" src="images/contact1.png">lakshangamage.13@cse.mrt.ac.lk</p>
 
                             <h6 style="margin-bottom: 5px; margin-top: 15px;">Buddhi Vikasitha</h6>
+
                             <p><img alt="" src="images/contact2.png">071 252 4923</p>
+
                             <p><img alt="" src="images/contact1.png">buddhiv.13@cse.mrt.ac.lk</p>
                         </div>
                     </div>
@@ -110,7 +113,7 @@
     <!-- End content -->
 
     <!-- Footer -->
-    <?php include 'footer.php';?>
+    <?php include 'footer.php'; ?>
     <!-- End Footer -->
 
 </div>

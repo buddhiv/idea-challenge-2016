@@ -35,7 +35,9 @@
             </div>
             <aside style="margin-top: -20px;">
                 <ul> <!-- Social Icons -->
-                    <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt="" src="images/fb.png"></a></li>
+                    <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt=""
+                                                                                                  src="images/fb.png"></a>
+                    </li>
                 </ul>
             </aside>
         </div>
@@ -59,7 +61,15 @@
         <div id="inner-content" class="container">
             <div id="about">
                 <div class="row-fluid">
-                    <h1>Registrations will be available soon</h1>
+                    <h1>Register for the competition now!</h1>
+
+                    <div style="overflow: hidden">
+                        <iframe
+                            src="https://docs.google.com/forms/d/1ErHyNQ-V5_1MyAQ4BclQ0e-4PO6xF3645kKLDdHb0Wo/viewform?embedded=true"
+                            width="100%" height="1030" frameborder="0" marginheight="0" marginwidth="0"
+                            style="margin-top: -180px; margin-bottom: 5px">
+                        </iframe>
+                    </div>
                 </div>
 
             </div>
@@ -68,7 +78,7 @@
     </div>
 
     <!-- Footer -->
-    <?php include 'footer.php';?>
+    <?php include 'footer.php'; ?>
     <!-- End Footer -->
 
 </div>
