@@ -26,8 +26,23 @@ if (isset($_POST['submit'])) {
                     mail($to, $subject, $txt, $header);
 
                     $successFlag = true;
+                    header('Location: http://idea.cse.mrt.ac.lk/contact.php?success=true');
+                }else{
+                    header('Location: http://idea.cse.mrt.ac.lk/contact.php?success=false');
                 }
+            }else{
+                header('Location: http://idea.cse.mrt.ac.lk/contact.php?success=false');
             }
+        }else{
+            header('Location: http://idea.cse.mrt.ac.lk/contact.php?success=false');
         }
+    }else{
+        header('Location: http://idea.cse.mrt.ac.lk/contact.php?success=false');
     }
+}else{
+    header('Location: http://idea.cse.mrt.ac.lk/contact.php?success=false');
 }
+
+/////////////////////////////////////////////////////////////////////////
+
+?>
