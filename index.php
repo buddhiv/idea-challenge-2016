@@ -176,9 +176,12 @@
                 </div>
             </div>
 
-            <blockquote id="blockquote2">IDEA Challenge will promote and encourage the School children on IT and
-                Communication Technology - Dr.Chandana Gamage, Dept. of CSE
+            <blockquote id="blockquote2" style="margin-bottom: 10px">IDEA Challenge will promote and encourage the School children on IT and
+                Communication Technology
             </blockquote>
+            <div style="margin-bottom: 70px; float: right; font-size: 16px; padding-right: 80px">
+                <p>- Dr.Chandana Gamage, Dept. of CSE -</p>
+            </div>
         </div>
     </div>
 
