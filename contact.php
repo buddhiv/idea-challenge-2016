@@ -61,22 +61,23 @@
         <div id="inner-content" class="container">
             <div id="contact" class="row-fluid">
 
-                <?php
-                if (isset($_GET['success'])) {
-                    if ($_GET['success'] == 'true') {
-                        ?>
-                        <h4>Your message was sent successfully</h4>
-                        <?php
-                    } else if ($_GET['success'] == 'false') {
-                        ?>
-                        <h4>Your message failed</h4>
-                        <?php
-                    }
-                }
-                ?>
 
                 <div class="row-fluid" style="position: relative; top: -20px">
                     <div class="span8">
+                        <?php
+                        if (isset($_GET['success'])) {
+                            if ($_GET['success'] == 'true') {
+                                ?>
+                                <h1>Your message was sent successfully</h1>
+                                <?php
+                            } else if ($_GET['success'] == 'false') {
+                                ?>
+                                <h1 style="color: red">Your message failed</h1>
+                                <?php
+                            }
+                        }
+                        ?>
+
                         <h1 style="color: black;">Send us a message</h1>
 
                         <div style="position: relative; top: 10px;">

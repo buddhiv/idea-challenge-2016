@@ -43,6 +43,4 @@ if (isset($_POST['submit'])) {
     header('Location: http://idea.cse.mrt.ac.lk/contact.php?success=false');
 }
 
-/////////////////////////////////////////////////////////////////////////
-
 ?>
