@@ -37,8 +37,9 @@
 
             <aside style="margin-top: -20px;">
                 <ul>
-                    <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt="fbimage" src="./images/fbook.png"
-                                                                                  style=""></a></li>
+                    <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt="fbimage"
+                                                                                                  src="./images/fbook.png"
+                                                                                                  style=""></a></li>
                 </ul>
             </aside>
         </div>
@@ -125,6 +126,7 @@
                 <h1>Log In to our Moodle</h1>
                 <ul class="span3">
                     <li class="active3">What is Moodle?</li>
+                    <a href="lms/login/"><li>Log into Moodle</li></a>
                 </ul>
 
                 <ul class="wrapper span9">

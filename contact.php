@@ -108,7 +108,7 @@
                         <div style="position: relative; top: 10px;">
                             <h6 style="margin-bottom: 5px; margin-top: 15px;">Lakshan Gamage</h6>
 
-                            <p><img alt="" src="images/contact2.png">071 252 4923</p>
+                            <p><img alt="" src="images/contact2.png">077 347 2649</p>
 
                             <p><img alt="" src="images/contact1.png">lakshangamage.13@cse.mrt.ac.lk</p>
 
