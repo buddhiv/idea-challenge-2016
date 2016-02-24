@@ -51,6 +51,7 @@
                     <li><a href="about.php">About</a></li>
                     <li><a href="videos.php">Videos</a></li>
                     <li><a href="register.php">Register</a></li>
+                    <li><a href="teacher.php">Teachers</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
@@ -93,20 +94,20 @@
 
             <div class="row-fluid articles" id="articles">
                 <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px;">I</span>dentify Trends</h4>
+                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">I</span>dentify Trends</h4>
 
                     <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge by
                         working with them.</p>
                 </div>
 
                 <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px;">D</span>rop Doubts</h4>
+                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">D</span>rop Doubts</h4>
 
                     <p><br/>Drop your doubts and solve your problems with the help of dozens.</p>
                 </div>
 
                 <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px;">E</span>mpower Ingenuity</h4>
+                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">E</span>mpower Ingenuity</h4>
 
                     <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them with
                         what
@@ -114,12 +115,26 @@
                 </div>
 
                 <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px;">A</span>ttain Pride</h4>
+                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">A</span>ttain Pride</h4>
 
                     <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together with
                         latest
                         technology.</p>
                 </div>
+            </div>
+
+
+            <div class="services3 row-fluid clearfix">
+                <h1>ANDROID INTRODUCTION</h1>
+                <ul class="span3">
+                    <li class="active3">What is ANDROID?</li>
+                </ul>
+
+                <ul class="wrapper span9">
+                    <li class="displayed">
+                        <iframe width="680" height="440" src="https://www.youtube.com/embed/IppTZPC8MvM?loop=1&playlist=IppTZPC8MvM" frameborder="0" allowfullscreen></iframe>
+                    </li>
+                </ul>
             </div>
 
             <div class="services3 row-fluid clearfix">
@@ -142,7 +157,6 @@
                             make sure that you are ready to face “IDEA Challenge” successfully.</p>
                     </li>
                 </ul>
-
             </div>
 
             <div class="row-fluid articles" id="articles">
