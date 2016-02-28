@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Videos | IDEA Challenge 2K16</title>
+    <title>Teacher Register | IDEA Challenge 2016</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -36,9 +36,8 @@
             <aside style="margin-top: -20px;">
                 <ul> <!-- Social Icons -->
                     <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt=""
-                                                                                                  src="images/fb.png"></a>
+                                                                                                  src="images/fb.jpg"></a>
                     </li>
-                    <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt="" src="images/fb.jpg"></a></li>
                 </ul>
             </aside>
         </div>
@@ -48,13 +47,9 @@
                 <ul class="sf-menu">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
-                    <li class="active"><a href="videos.php">Videos</a></li>
+                    <li><a href="videos.php">Videos</a></li>
                     <li><a href="register.php">Register</a></li>
-<<<<<<< HEAD
-                    <li><a href="teachers.php">Teachers</a></li>
-=======
-                    <li><a href="teacher.php">Teachers</a></li>
->>>>>>> 1bc96a8568d3a62c581074c9636e7abc1e118595
+                    <li class="active"><a href="teacher.php">Teachers</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
@@ -67,8 +62,20 @@
         <div id="inner-content" class="container">
             <div id="about">
                 <div class="row-fluid">
-                    <h1>Videos will be available soon</h1>
+                    <h1>Register as a Teacher</h1>
+                    <h5> School teachers can register in here and receive latest updates of the IDEA Challenge.
+                    </h5>
+                    <br>
+
+                    <div style="overflow: hidden">
+                        <iframe
+                            src="https://docs.google.com/forms/d/1iRD3GSt217G2k692f6ZAnOETFO_80ryvd7B5kCgqE-g/viewform?embedded=true"
+                            width="100%" height="1030" frameborder="0" marginheight="0" marginwidth="0"
+                            style="margin-top: -180px; margin-bottom: 5px">
+                        </iframe>
+                    </div>
                 </div>
+
             </div>
 
         </div>

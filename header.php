@@ -6,7 +6,7 @@
         </div>
         <aside style="margin-top: -20px;">
             <ul> <!-- Social Icons -->
-                <li><a href="https://www.facebook.com/IeslIdeaChallenge"><img alt="" src="images/fb.png"></a></li>
+                <li><a href="https://www.facebook.com/IeslIdeaChallenge"><img alt="" src="images/fb.jpg"></a></li>
             </ul>
         </aside>
     </div>

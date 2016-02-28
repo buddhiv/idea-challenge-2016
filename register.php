@@ -36,7 +36,7 @@
             <aside style="margin-top: -20px;">
                 <ul> <!-- Social Icons -->
                     <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt=""
-                                                                                                  src="images/fb.png"></a>
+                                                                                                  src="images/fb.jpg"></a>
                     </li>
                 </ul>
             </aside>
@@ -50,6 +50,7 @@
                     <li><a href="videos.php">Videos</a></li>
                     <li class="active"><a href="register.php">Register</a></li>
                     <li><a href="teachers.php">Teachers</a></li>
+                    <li><a href="teacher.php">Teachers</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
