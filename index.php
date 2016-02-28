@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Home | IDEA Challenge 2016</title>
+    <title>Home | IDEA Challenge 2K16</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -51,6 +51,7 @@
                     <li><a href="about.php">About</a></li>
                     <li><a href="videos.php">Videos</a></li>
                     <li><a href="register.php">Register</a></li>
+                    <li><a href="teachers.php">Teachers</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
@@ -177,7 +178,7 @@
             </div>
 
             <blockquote id="blockquote2" style="margin-bottom: 10px">IDEA Challenge will promote and encourage the School children on IT and
-                Communication Technology
+                Communication Technology.
             </blockquote>
             <div style="margin-bottom: 70px; float: right; font-size: 16px; padding-right: 80px">
                 <p>- Dr.Chandana Gamage, Dept. of CSE -</p>
