@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>About | IDEA Challenge 2K16</title>
+    <title>About | IDEA Challenge 2016</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -88,14 +88,14 @@
                                 Department of Computer Science and Engineering of University of Moratuwa, ask questions,
                                 solve your doubts, come up with an innovative IDEA, develop your own mobile application
                                 and
-                                become a winner of “IDEA Challenge 2015”.</p>
+                                become a winner of “IDEA Challenge 2016”.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="span12">
                     <div class="text">
-                        <h3 style="margin-bottom: 30px;">Theme for IDEA Challenge 2K16 is <a style="color: #7da817">Mobile
+                        <h3 style="margin-bottom: 30px;">Theme for IDEA Challenge 2016 is <a style="color: #7da817">Mobile
                                 Apps for Green Living</a></h3>
 
                         <h5 style="margin-bottom: 10px;">Project Idea 1:</h5>
