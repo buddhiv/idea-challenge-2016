@@ -50,7 +50,6 @@
                     <li><a href="videos.php">Videos</a></li>
                     <li class="active"><a href="register.php">Register</a></li>
                     <li><a href="teachers.php">Teachers</a></li>
-                    <li><a href="teacher.php">Teachers</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>

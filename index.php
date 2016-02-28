@@ -52,7 +52,6 @@
                     <li><a href="videos.php">Videos</a></li>
                     <li><a href="register.php">Register</a></li>
                     <li><a href="teachers.php">Teachers</a></li>
-                    <li><a href="teacher.php">Teachers</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
@@ -95,7 +94,8 @@
 
             <div class="row-fluid articles" id="articles">
                 <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">I</span>dentify Trends</h4>
+                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">I</span>dentify Trends
+                    </h4>
 
                     <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge by
                         working with them.</p>
@@ -108,7 +108,8 @@
                 </div>
 
                 <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">E</span>mpower Ingenuity</h4>
+                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">E</span>mpower Ingenuity
+                    </h4>
 
                     <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them with
                         what
@@ -124,16 +125,20 @@
                 </div>
             </div>
 
-
             <div class="services3 row-fluid clearfix">
                 <h1>ANDROID INTRODUCTION</h1>
                 <ul class="span3">
-                    <li class="active3">What is ANDROID?</li>
+                    <li class="active3">What is Android?</li>
+                    <a href="videos.php">
+                        <li>More Videos</li>
+                    </a>
                 </ul>
 
                 <ul class="wrapper span9">
-                    <li class="displayed">
-                        <iframe width="680" height="440" src="https://www.youtube.com/embed/IppTZPC8MvM?loop=1&playlist=IppTZPC8MvM" frameborder="0" allowfullscreen></iframe>
+                    <li class="displayed" style="float: right">
+                        <iframe width="640" height="380"
+                                src="https://www.youtube.com/embed/IppTZPC8MvM?loop=1&playlist=IppTZPC8MvM"
+                                frameborder="0" allowfullscreen></iframe>
                     </li>
                 </ul>
             </div>
@@ -142,7 +147,9 @@
                 <h1>Log In to our Moodle</h1>
                 <ul class="span3">
                     <li class="active3">What is Moodle?</li>
-                    <a href="lms/login/"><li>Log into Moodle</li></a>
+                    <a href="lms/login/">
+                        <li>Log into Moodle</li>
+                    </a>
                 </ul>
 
                 <ul class="wrapper span9">
@@ -152,9 +159,11 @@
                         <h2>Moodle - Modular Object-Oriented Dynamic Learning Environment is an Online Learning
                             Management System.</h2>
 
-                        <p>Our Moodle provides a discussion forum, an online calendar, a convenient way to share online
+                        <p>Our Moodle provides a discussion forum, an online calendar, a convenient way to share
+                            online
                             news and announcements and an e-learning platform to make sure that you walk towards the
-                            successful completion of the android application development course of ten weeks. It will
+                            successful completion of the android application development course of ten weeks. It
+                            will
                             make sure that you are ready to face “IDEA Challenge” successfully.</p>
                     </li>
                 </ul>
@@ -162,14 +171,17 @@
 
             <div class="row-fluid articles" id="articles">
                 <div class="span3">
-                    <img alt="iesl" src="images/iesl-logo.png" style="width: 60px; height: 60px; margin-bottom: 0px"/>
+                    <img alt="iesl" src="images/iesl-logo.png"
+                         style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
-                    <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge by
+                    <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge
+                        by
                         working with them.</p>
                 </div>
 
                 <div class="span3">
-                    <img alt="iesl" src="images/iesl-logo.png" style="width: 60px; height: 60px; margin-bottom: 0px"/>
+                    <img alt="iesl" src="images/iesl-logo.png"
+                         style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
                     <p><br/>Drop your doubts and solve your problems with the help of dozens.<br/><br/></p>
                 </div>
@@ -177,7 +189,8 @@
                 <div class="span3">
                     <img src="images/uom-logo.png" alt="uom" style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
-                    <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them with
+                    <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them
+                        with
                         what
                         you have learnt.</p>
                 </div>
@@ -185,13 +198,15 @@
                 <div class="span3">
                     <img src="images/cse-logo.png" alt="cse" style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
-                    <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together with
+                    <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together
+                        with
                         latest
                         technology.</p>
                 </div>
             </div>
 
-            <blockquote id="blockquote2" style="margin-bottom: 10px">IDEA Challenge will promote and encourage the School children on IT and
+            <blockquote id="blockquote2" style="margin-bottom: 10px">IDEA Challenge will promote and encourage the
+                School children on IT and
                 Communication Technology.
             </blockquote>
             <div style="margin-bottom: 70px; float: right; font-size: 16px; padding-right: 80px">

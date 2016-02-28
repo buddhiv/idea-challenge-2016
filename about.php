@@ -35,7 +35,9 @@
             </div>
             <aside style="margin-top: -20px;">
                 <ul> <!-- Social Icons -->
-                    <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt="" src="images/fb.jpg"></a></li>
+                    <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt=""
+                                                                                                  src="images/fb.jpg"></a>
+                    </li>
                 </ul>
             </aside>
         </div>
@@ -48,7 +50,6 @@
                     <li><a href="videos.php">Videos</a></li>
                     <li><a href="register.php">Register</a></li>
                     <li><a href="teachers.php">Teachers</a></li>
-                    <li><a href="teacher.php">Teachers</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
@@ -94,6 +95,58 @@
 
                 <div class="span12">
                     <div class="text">
+                        <h3 style="margin-bottom: 30px;">Theme for IDEA Challenge 2K16 is <a style="color: #7da817">Mobile
+                                Apps for Green Living</a></h3>
+
+                        <h5 style="margin-bottom: 10px;">Project Idea 1:</h5>
+
+                        <p>
+                            To build a mobile app that can be used to calculate "Personal Carbon Credits" (PCC) for
+                            students.<br/>
+
+                            • If you cycle to school, you get 9 PCC per km.<br/>
+                            • If you walk to school, you get 8 PCC per km.<br/>
+                            • If you use public transport by train, you get 7 PCC per km.<br/>
+                            • If you use public transport by bus, you get 6 PCC per km.<br/>
+                            • If you use private transport by electric car, you get 5 PCC per km.<br/>
+                            • If you use private transport by hybrid car, you get 4 PCC per km.<br/>
+                            • If you use private transport by petrol/diesel car and 4 people travel in the car, you get
+                            3 PCC per km.<br/>
+                            • If you use private transport by petrol/diesel car and 3 people travel in the car, you get
+                            2 PCC per km.<br/>
+                            • If you use private transport by petrol/diesel car and 2 people travel in the car, you get
+                            1 PCC per km.<br/><br/>
+
+                            For example, if you walk 1 km to bus stop, take the bus for 5 kms and then take the train
+                            for 20 kms and a bus for 3 kms, you total PCC is 8+(6*5)+(7*20)+(6*3) = 196.<br/><br/>
+
+                            Version 1: The app should allow the student to enter the data on a daily basis. The student
+                            can see a graph of PCC change over time.<br/>
+                            Version 2: The app should allow the data to be uploaded to a central server. The server
+                            collects data from many students and create a "Carbon Super Star" for each
+                            day/week/month/year
+                        </p>
+
+                        <h5 style="margin-bottom: 10px;">Project Idea 2:</h5>
+
+                        <p>
+                            To build a mobile app that can be used to create a "Garbage Map".<br/><br/>
+
+                            Version 1: The students will make a note of places in their area where garbage is dumped
+                            that is unhygienic and/or illegal. These places are marked on a map so that people can have
+                            a idea
+                            how clean or unclean the area they live in. By entering data on a daily basis, we will be
+                            able to see how the garbage map evolve. We can also have levels of severity for the
+                            unhygienic and/or illegal condition and use this addition data to make a color coded
+                            map.<br/>
+                            Version 2: The app should allow the map data to be uploaded to a central server. The server
+                            could publish a "Top-Ten" list of most garbage strewn areas.
+                        </p>
+                    </div>
+
+                    <div class="text">
+                        <h3 style="margin-bottom: 30px;">What do you want to know about the Competition</h3>
+
                         <h5 style="margin-bottom: 10px;">OUR VISION</h5>
 
                         <p>Provide an opportunity to trot out and enhance innovative and creative ideas in android
@@ -153,6 +206,7 @@
                             • At the end of the lecture series each group will have to create an android application for
                             the competition.</p>
                     </div>
+
                 </div>
 
             </div>
@@ -161,7 +215,7 @@
     </div>
 
     <!-- Footer -->
-    <?php include 'footer.php';?>
+    <?php include 'footer.php'; ?>
     <!-- End Footer -->
 
 </div>

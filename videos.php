@@ -50,11 +50,7 @@
                     <li><a href="about.php">About</a></li>
                     <li class="active"><a href="videos.php">Videos</a></li>
                     <li><a href="register.php">Register</a></li>
-<<<<<<< HEAD
                     <li><a href="teachers.php">Teachers</a></li>
-=======
-                    <li><a href="teacher.php">Teachers</a></li>
->>>>>>> 1bc96a8568d3a62c581074c9636e7abc1e118595
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
