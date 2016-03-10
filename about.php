@@ -88,7 +88,7 @@
                                 Department of Computer Science and Engineering of University of Moratuwa, ask questions,
                                 solve your doubts, come up with an innovative IDEA, develop your own mobile application
                                 and
-                                become a winner of “IDEA Challenge 2015”.</p>
+                                become a winner of “IDEA Challenge 2K16”.</p>
                         </div>
                     </div>
                 </div>

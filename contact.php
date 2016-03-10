@@ -64,43 +64,48 @@
 
 
                 <div class="row-fluid" style="position: relative; top: -20px">
+<!--                    <h1>Forward your ideas, suggestions, complaints to</h1>-->
                     <div class="span8">
-                        <?php
-                        if (isset($_GET['success'])) {
-                            if ($_GET['success'] == 'true') {
-                                ?>
-                                <h1>Your message was sent successfully</h1>
-                                <?php
-                            } else if ($_GET['success'] == 'false') {
-                                ?>
-                                <h1 style="color: red">Your message failed</h1>
-                                <?php
-                            }
-                        }
-                        ?>
+<!--                        --><?php
+//                        if (isset($_GET['success'])) {
+//                            if ($_GET['success'] == 'true') {
+//                                ?>
+<!--                                <h1>Your message was sent successfully</h1>-->
+<!--                                --><?php
+//                            } else if ($_GET['success'] == 'false') {
+//                                ?>
+<!--                                <h1 style="color: red">Your message failed</h1>-->
+<!--                                --><?php
+//                            }
+//                        }
+//                        ?>
+<!---->
+<!--                        <h1 style="color: black;">Send us a message</h1>-->
+<!---->
+<!--                        <div style="position: relative; top: 10px;">-->
+<!--                            <form id="contact-form" action="php/contact_action.php" method="post">-->
+<!--                                <label id="label" for="name"></label>-->
+<!--                                <input name="name" id="name" type="text" placeholder="Name" value=""-->
+<!--                                       style="width: 550px">-->
+<!---->
+<!--                                <label id="label1" for="mail"></label>-->
+<!--                                <input name="mail" id="mail" type="text" placeholder="Email" value=""-->
+<!--                                       style="width: 550px">-->
+<!---->
+<!--                                <label id="label2" for="subject"></label>-->
+<!--                                <input name="subject" id="subject" type="text" placeholder="Subject" value=""-->
+<!--                                       style="width: 550px">-->
+<!---->
+<!--                                <textarea id="message" name="message" placeholder="Message"></textarea>-->
+<!---->
+<!--                                <div id="msg" class="message"></div>-->
+<!--                                <input type="submit" id="submit" value="Send"/>-->
+<!--                            </form>-->
+<!--                        </div>-->
 
-                        <h1 style="color: black;">Send us a message</h1>
+                        <h1 style="color: black">Forward your ideas, suggestions, complaints to: </h1>
+                        <h3 style="margin-left: 120px; margin-top: 60px; color: #7DA817;">ideachallenge2016@gmail.com</h3>
 
-                        <div style="position: relative; top: 10px;">
-                            <form id="contact-form" action="php/contact_action.php" method="post">
-                                <label id="label" for="name"></label>
-                                <input name="name" id="name" type="text" placeholder="Name" value=""
-                                       style="width: 550px">
-
-                                <label id="label1" for="mail"></label>
-                                <input name="mail" id="mail" type="text" placeholder="Email" value=""
-                                       style="width: 550px">
-
-                                <label id="label2" for="subject"></label>
-                                <input name="subject" id="subject" type="text" placeholder="Subject" value=""
-                                       style="width: 550px">
-
-                                <textarea id="message" name="message" placeholder="Message"></textarea>
-
-                                <div id="msg" class="message"></div>
-                                <input type="submit" id="submit" value="Send"/>
-                            </form>
-                        </div>
                     </div>
 
                     <div class="span4">
