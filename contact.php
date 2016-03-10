@@ -49,7 +49,7 @@
                     <li><a href="about.php">About</a></li>
                     <li><a href="videos.php">Videos</a></li>
                     <li><a href="register.php">Register</a></li>
-                    <li><a href="teachers.php">Teachers</a></li>
+                    <li><a href="teacher.php">Teachers</a></li>
                     <li class="active"><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
@@ -106,6 +106,42 @@
                         <h1 style="color: black">Forward your ideas, suggestions, complaints to: </h1>
                         <h3 style="margin-left: 120px; margin-top: 60px; color: #7DA817;">ideachallenge2016@gmail.com</h3>
 
+<!--                        --><?php
+//                        if (isset($_GET['success'])) {
+//                            if ($_GET['success'] == 'true') {
+//                                ?>
+<!--                                <h1>Your message was sent successfully</h1>-->
+<!--                            --><?php
+//                            } else if ($_GET['success'] == 'false') {
+//                                ?>
+<!--                                <h1 style="color: red">Your message failed</h1>-->
+<!--                            --><?php
+//                            }
+//                        }
+//                        ?>
+<!---->
+<!--                        <h1 style="color: black;">Send us a message</h1>-->
+<!---->
+<!--                        <div style="position: relative; top: 10px;">-->
+<!--                            <form id="myForm" name="myForm" action="php/contact_action.php" method="post" onsubmit="return validateForm();">-->
+<!--                                <label id="label" for="name"></label>-->
+<!--                                <input name="name" id="name" type="text" placeholder="Name" value=""-->
+<!--                                       style="width: 550px">-->
+<!---->
+<!--                                <label id="label1" for="mail"></label>-->
+<!--                                <input name="mail" id="mail" type="text" placeholder="Email" value=""-->
+<!--                                       style="width: 550px">-->
+<!---->
+<!--                                <label id="label2" for="subject"></label>-->
+<!--                                <input name="subject" id="subject" type="text" placeholder="Subject" value=""-->
+<!--                                       style="width: 550px">-->
+<!---->
+<!--                                <textarea id="message" name="message" placeholder="Message"></textarea>-->
+<!---->
+<!--                                <div id="msg" class="message"></div>-->
+<!--                                <input name="submit" type="submit" id="submit" value="Send"/>-->
+<!--                            </form>-->
+<!--                        </div>-->
                     </div>
 
                     <div class="span4">
@@ -148,6 +184,74 @@
 <!--<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>-->
 <!--<script type="text/javascript" src="js/gmap3.min.js"></script>-->
 <script src="js/script.js"></script>
+
+<script type="text/javascript" src="./js/bootbox.min.js"></script>
+<script src="./js/bootstrap.min.js"></script>
+<script src="./js/bootstrap.js"></script>
+
+<script>
+    function validateForm() {
+        var x = document.forms["myForm"]["mail"].value;
+        var atpos = x.indexOf("@");
+        var dotpos = x.lastIndexOf(".");
+        if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length) {
+            bootbox.dialog({
+                title: "Not a valid email address.",
+                message: "Please fill the form correctly and submit again.",
+                buttons: {
+                    success: {
+                        label: "OK",
+                        className: "btn-danger"
+                    }
+                }
+            });
+            return false;
+        }
+        var x = document.forms["myForm"]["message"].value;
+        if (x == null || x == "" || x=="Message") {
+            bootbox.dialog({
+                title: "Message must be filled out",
+                message: "Please fill the full form and submit again.",
+                buttons: {
+                    success: {
+                        label: "OK",
+                        className: "btn-danger"
+                    }
+                }
+            });
+            return false;
+        }
+        var x = document.forms["myForm"]["subject"].value;
+        if (x == null || x == "" || x=="Subject") {
+            bootbox.dialog({
+                title: "Subject field must be filled out",
+                message: "Please fill the full form and submit again.",
+                buttons: {
+                    success: {
+                        label: "OK",
+                        className: "btn-danger"
+                    }
+                }
+            });
+            return false;
+        }
+        var x = document.forms["myForm"]["name"].value;
+        if (x == null || x == "" || x=="Name") {
+            bootbox.dialog({
+                title: "Name field must be filled out",
+                message: "Please fill the full form and submit again.",
+                buttons: {
+                    success: {
+                        label: "OK",
+                        className: "btn-danger"
+                    }
+                }
+            });
+            return false;
+        }
+    }
+</script>
+
 
 </body>
 </html>
