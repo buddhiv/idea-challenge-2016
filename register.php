@@ -64,6 +64,23 @@
                 <div class="row-fluid">
                     <h1>Register for the competition now!</h1>
 
+                    <?php
+                    $dom = date('j');
+                    $hod = date('H');
+
+                    if ($dom <= 30) {
+                        ?>
+                        <h3 style="margin-top: 30px; color: #7DA817; margin-bottom: 30px">Registrations close on 13th
+                            May 2016. (<?php echo(13 - $dom); ?> days left)</h3>
+                        <?php
+                    } else {
+                        ?>
+                        <h3 style="margin-top: 30px; color: #7DA817; margin-bottom: 30px">Registrations are closed.</h3>
+                        <?php
+                    }
+                    ?>
+
+
                     <div style="overflow: hidden">
                         <iframe
                             src="https://docs.google.com/forms/d/1ErHyNQ-V5_1MyAQ4BclQ0e-4PO6xF3645kKLDdHb0Wo/viewform?embedded=true"
