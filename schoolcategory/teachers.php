@@ -1,18 +1,18 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Teacher Register | IDEA Challenge 2K16</title>
+    <title>Teachers | IDEA Challenge 2K16</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="css/bootstrap-responsive1.css" type="text/css" media="screen">
-    <link href="css/ticker-style.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="../css/bootstrap.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="../css/bootstrap-responsive1.css" type="text/css" media="screen">
+    <link href="../css/ticker-style.css" rel="stylesheet" type="text/css"/>
 
-    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="../css/style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="../css/responsive.css" type="text/css" media="screen">
 
 
 </head>
@@ -31,12 +31,15 @@
         <div id="top" class="clearfix">
 
             <div id="logo" style="margin-bottom: 15px; margin-top: -30px;"> <!-- Logo -->
-                <a href="index.php"><img alt="" src="images/logo.png" style="height: 50px"></a>
+                <a href="../index.php"><img alt="" src="../images/logo.png" style="height: 50px"></a>
+            </div>
+            <div style="margin-left: 150px; margin-top: -5px">
+                <h4 style="color: #7da817;">School Category</h4>
             </div>
             <aside style="margin-top: -20px;">
                 <ul> <!-- Social Icons -->
                     <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt=""
-                                                                                                  src="images/fb.jpg"></a>
+                                                                                                  src="images/fb.png"></a>
                     </li>
                 </ul>
             </aside>
@@ -49,7 +52,7 @@
                     <li><a href="about.php">About</a></li>
                     <li><a href="videos.php">Videos</a></li>
                     <li><a href="register.php">Register</a></li>
-                    <li class="active"><a href="teacher.php">Teachers</a></li>
+                    <li class="active"><a href="teachers.php">Teachers</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
@@ -62,15 +65,12 @@
         <div id="inner-content" class="container">
             <div id="about">
                 <div class="row-fluid">
-                    <h1>Register as a Teacher</h1>
-                    <h5> School teachers can register in here and receive latest updates of the IDEA Challenge.
-                    </h5>
-                    <br>
+                    <h1>Teachers can stay in touch with the competition</h1>
 
                     <div style="overflow: hidden">
                         <iframe
                             src="https://docs.google.com/forms/d/1iRD3GSt217G2k692f6ZAnOETFO_80ryvd7B5kCgqE-g/viewform?embedded=true"
-                            width="100%" height="1030" frameborder="0" marginheight="0" marginwidth="0"
+                            width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0"
                             style="margin-top: -180px; margin-bottom: 5px">
                         </iframe>
                     </div>
@@ -82,18 +82,18 @@
     </div>
 
     <!-- Footer -->
-    <?php include 'footer.php'; ?>
+    <?php include '../footer.php'; ?>
     <!-- End Footer -->
 
 </div>
 <!-- End Container -->
 
-<script src="js/jquery.min.js"></script>
-<script type="text/javascript" src="js/jquery.cookie.js"></script>
-<script src="js/jquery.ticker.js" type="text/javascript"></script>
-<script type="text/javascript" src="js/jquery.superfish.js"></script>
-<script type="text/javascript" src="js/jquery.selectbox.min.js"></script>
-<script src="js/script.js"></script>
+<script src="../js/jquery.min.js"></script>
+<script type="text/javascript" src="../js/jquery.cookie.js"></script>
+<script src="../js/jquery.ticker.js" type="text/javascript"></script>
+<script type="text/javascript" src="../js/jquery.superfish.js"></script>
+<script type="text/javascript" src="../js/jquery.selectbox.min.js"></script>
+<script src="../js/script.js"></script>
 
 </body>
 </html>

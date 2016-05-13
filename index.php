@@ -38,24 +38,12 @@
             <aside style="margin-top: -20px;">
                 <ul>
                     <li><a href="https://www.facebook.com/IeslIdeaChallenge" target="_blank"><img alt="fbimage"
-                                                                                                  src="./images/fbook.png"
+                                                                                                  src="images/fbook.png"
                                                                                                   style=""></a></li>
                 </ul>
             </aside>
         </div>
 
-        <div id="menu" class="clearfix"> <!-- Navigation -->
-            <nav class="navigation">
-                <ul class="sf-menu">
-                    <li class="active"><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About</a></li>
-                    <li><a href="videos.php">Videos</a></li>
-                    <li><a href="register.php">Register</a></li>
-                    <li><a href="teachers.php">Teachers</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                </ul>
-            </nav>
-        </div>
     </header>
     <!-- End Header -->
 
@@ -92,81 +80,23 @@
     <div id="content">
         <div id="inner-content" class="container">
 
-            <div class="row-fluid articles" id="articles">
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">I</span>dentify Trends
-                    </h4>
-
-                    <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge by
-                        working with them.</p>
-                </div>
-
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">D</span>rop Doubts</h4>
-
-                    <p><br/>Drop your doubts and solve your problems with the help of dozens.</p>
-                </div>
-
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">E</span>mpower Ingenuity
-                    </h4>
-
-                    <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them with
-                        what
-                        you have learnt.</p>
-                </div>
-
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">A</span>ttain Pride</h4>
-
-                    <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together with
-                        latest
-                        technology.</p>
-                </div>
-            </div>
-
             <div class="services3 row-fluid clearfix">
-                <h1>ANDROID INTRODUCTION</h1>
-                <ul class="span3">
-                    <li class="active3">What is Android?</li>
-                    <a href="videos.php">
-                        <li>More Videos</li>
+                <div class="span6" style="padding-right: 10px">
+                    <a href="schoolcategory/index.php">
+                        <img src="images/school.jpg" alt="schoolcategory" style="border: 1px solid #e7e7e7; padding: 5px"/>
+                        <div style="position: relative; top: -40px; text-align: center">
+                            <h2 style="color: white">School Category</h2>
+                        </div>
                     </a>
-                </ul>
-
-                <ul class="wrapper span9">
-                    <li class="displayed" style="float: right">
-                        <iframe width="640" height="380"
-                                src="https://www.youtube.com/embed/IppTZPC8MvM?loop=1&playlist=IppTZPC8MvM"
-                                frameborder="0" allowfullscreen></iframe>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="services3 row-fluid clearfix">
-                <h1>Log In to our Moodle</h1>
-                <ul class="span3">
-                    <li class="active3">What is Moodle?</li>
-                    <a href="lms/login/">
-                        <li>Log into Moodle</li>
+                </div>
+                <div class="span6" style="padding-right: 10px">
+                    <a href="undergraduatecategory/index.php">
+                        <img src="images/undergraduate.jpg" alt="undergraaduatecategory" style="border: 1px solid #e7e7e7; padding: 5px"/>
+                        <div style="position: relative; top: -40px; text-align: center">
+                            <h2 style="color: white">Undergraduate Category</h2>
+                        </div>
                     </a>
-                </ul>
-
-                <ul class="wrapper span9">
-                    <li class="displayed">
-                        <img alt="" src="images/moodle.png">
-
-                        <h2>Moodle - Modular Object-Oriented Dynamic Learning Environment is an Online Learning
-                            Management System.</h2>
-
-                        <p>Our Moodle provides a discussion forum, an online calendar, a convenient way to share
-                            online
-                            news and announcements and an e-learning platform to make sure that you walk towards the
-                            successful completion of the android application development course of ten weeks. It
-                            will
-                            make sure that you are ready to face “IDEA Challenge” successfully.</p>
-                    </li>
-                </ul>
+                </div>
             </div>
 
             <div class="row-fluid articles" id="articles">
@@ -175,8 +105,7 @@
                          style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
                     <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge
-                        by
-                        working with them.</p>
+                        by working with them.</p>
                 </div>
 
                 <div class="span3">
@@ -190,18 +119,14 @@
                     <img src="images/uom-logo.png" alt="uom" style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
                     <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them
-                        with
-                        what
-                        you have learnt.</p>
+                        with what you have learnt.</p>
                 </div>
 
                 <div class="span3">
                     <img src="images/cse-logo.png" alt="cse" style="width: 60px; height: 60px; margin-bottom: 0px"/>
 
                     <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together
-                        with
-                        latest
-                        technology.</p>
+                        with latest technology.</p>
                 </div>
             </div>
 
@@ -216,7 +141,15 @@
     </div>
 
     <!-- Footer -->
-    <?php include 'footer.php'; ?>
+    <footer class="clearfix">
+        <div class="end">
+            <div class="back-to-top">
+                <img alt="" src="images/back-to-top.png">
+
+                <p>&copy; Copyright IDEA Challenge 2K16 | All Rights Reserved</p>
+            </div>
+        </div>
+    </footer>
     <!-- End Footer -->
 
 </div>
