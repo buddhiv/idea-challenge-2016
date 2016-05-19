@@ -64,7 +64,7 @@
         <div id="inner-content" class="container">
             <div id="about">
                 <div class="row-fluid">
-                    <h1>A competition for undergraduate students on Andriod application
+                    <h1>A competition for undergraduate students on Android application
                         development organized by the institute of engineers, Sri Lanka</h1>
 
                     <div class="span12 text" style="margin-bottom: 0px;">
@@ -86,11 +86,9 @@
                                 If you are enthusiastic about Android mobile application, eager to learn more about
                                 mobile
                                 application development and want to show your talents to the whole country by being a
-                                winner, then IDEA challenge is for you. Learn about mobile application development with
-                                Department of Computer Science and Engineering of University of Moratuwa, ask questions,
-                                solve your doubts, come up with an innovative IDEA, develop your own mobile application
-                                and
-                                become a winner of “IDEA Challenge 2K16”.</p>
+                                winner, then IDEA challenge is for you. Come up with an innovative IDEA, develop your
+                                own mobile application
+                                and become a winner of “IDEA Challenge 2K16”.</p>
                         </div>
                     </div>
                 </div>
@@ -189,18 +187,20 @@
                         <h5 style="margin-bottom: 10px;">OUR MISSION</h5>
 
                         <p>Spread cutting edge technical knowledge on mobile application development among school
-                            children, inspire and guide them to be innovative engineers.</p>
+                            children and undergraduates, inspire and guide them to be innovative engineers.</p>
                     </div>
                     <div class="text">
                         <h5 style="margin-bottom: 10px;">WHO ARE THE ORGANIZERS OF THIS EVENT?</h5>
 
                         <p>This competition is organized by The Institution of Engineers, Sri Lanka (IESL) with Computer
-                            Science and Engineering Department of University of Moratuwa for school students on Android
+                            Science and Engineering Department of University of Moratuwa for school and undergraduate
+                            students on Android
                             Mobile Application development.
                             Institution of Engineers, Sri Lanka (IESL) is the largest and the apex engineering body in
                             the country. Established in 1956, currently it has an active membership around 16,000.The
                             Information Technology and Communications Engineering Sectional Committee of the IESL
-                            organizes this competition annually, to promote software development among school students
+                            organizes this competition annually, to promote software development among undergraduate
+                            students
                             and to recognize their talents as the next generation of professionals in the country.
                             University of Moratuwa is a leading university in Sri Lanka which currently consists of
                             three faculties. Computer Science and Engineering Department that belongs to the Faculty of
@@ -212,32 +212,27 @@
                     <div class="text">
                         <h5 style="margin-bottom: 10px;">WHAT IS THE PURPOSE OF THIS EVENT?</h5>
 
-                        <p>Most of the Sri Lankan students are interested in mobile application development but the main
-                            constraint for them is lack of knowledge and facilities. Only very few schools have well
-                            equipped ICT laboratories and resources persons. Main idea of organizing this event is to
-                            provide assistance for students to learn the art of mobile application development and
+                        <p>One of the main constraints for the mobile application developers is the lack of knowledge
+                            and facilities.
+                            Main idea of organizing this event is to
+                            provide assistance for those to learn the art of mobile application development and
                             ultimately give them an opportunity to make use of what they have learnt and showcase their
                             talents.</p>
                     </div>
                     <div class="text">
                         <h5 style="margin-bottom: 10px;">GENERAL GUIDELINES</h5>
 
-                        <p>• Participating members of teams should be current students of schools registered under the
-                            Ministry of Education.<br/>
-                            • A team may comprise of maximum of 4 students.<br/>
-                            • Each team should have a teacher from their school as the supervisor/teacher-in-charge.</p>
+                        <p>• A team may comprise of one or more applicants.<br/>
+                        </p>
                     </div>
                     <div class="text">
                         <h5 style="margin-bottom: 10px;">I WANT TO PARTICIPATE IN THE EVENT. WHAT THINGS SHOULD I BE
                             AWARE OF?</h5>
 
-                        <p>• All the contestants are required to register for the course via website or school<br/>
-                            • Video lectures will be conducted by undergraduate from Department of Computer Science and
-                            Engineering of University of Moratuwa.<br/>
-                            • Each group will be assisted with an undergraduate from Department of Computer Science and
-                            Engineering.<br/>
-                            • At the end of the lecture series each group will have to create an android application for
-                            the competition.</p>
+                        <p>• All the contestants are required to register for the course via website.<br/>
+                            • A proposal containing a brief idea about the outcome must be submitted when applying.<br/>
+                            • Each group will have to face a mid evaluation and an end evaluation.<br/>
+                        </p>
                     </div>
 
                 </div>

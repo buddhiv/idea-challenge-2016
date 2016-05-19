@@ -65,7 +65,7 @@
         <div id="inner-content" class="container">
             <div id="about">
                 <div class="row-fluid">
-                    <h1>A competition supported with online course module for school students on Andriod application
+                    <h1>A competition supported with online course module for school students on Android application
                         development organized by the institute of engineers, Sri Lanka</h1>
 
                     <div class="span12 text" style="margin-bottom: 0px;">
@@ -159,13 +159,13 @@
                         <h5 style="margin-bottom: 10px;">OUR MISSION</h5>
 
                         <p>Spread cutting edge technical knowledge on mobile application development among school
-                            children, inspire and guide them to be innovative engineers.</p>
+                            children and undergraduates, inspire and guide them to be innovative engineers.</p>
                     </div>
                     <div class="text">
                         <h5 style="margin-bottom: 10px;">WHO ARE THE ORGANIZERS OF THIS EVENT?</h5>
 
                         <p>This competition is organized by The Institution of Engineers, Sri Lanka (IESL) with Computer
-                            Science and Engineering Department of University of Moratuwa for school students on Android
+                            Science and Engineering Department of University of Moratuwa for school and undergraduate students on Android
                             Mobile Application development.
                             Institution of Engineers, Sri Lanka (IESL) is the largest and the apex engineering body in
                             the country. Established in 1956, currently it has an active membership around 16,000.The
