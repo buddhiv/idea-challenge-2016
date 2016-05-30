@@ -61,39 +61,40 @@
     </header>
     <!-- End Header -->
 
+    <section class="slider" >
+        <div class="flexslider container" style="margin-bottom: -20px; margin-top: -20px">
+            <img src="../images/student-banner.jpg" alt="student banner">
+        </div>
+    </section>
+
     <div id="content" style="margin-top: 30px">
         <div id="inner-content" class="container">
 
-            <div class="row-fluid articles" id="articles">
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">I</span>dentify Trends
-                    </h4>
+            <div class="services3 row-fluid clearfix" style="margin-bottom: 50px; margin-top: 0px">
+                <div class="span12 text" style="margin-bottom: 0px;">
 
-                    <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge by
-                        working with them.</p>
-                </div>
-
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">D</span>rop Doubts</h4>
-
-                    <p><br/>Drop your doubts and solve your problems with the help of dozens.</p>
-                </div>
-
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">E</span>mpower Ingenuity
-                    </h4>
-
-                    <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them with
-                        what
-                        you have learnt.</p>
-                </div>
-
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">A</span>ttain Pride</h4>
-
-                    <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together with
-                        latest
-                        technology.</p>
+                    <div class="span5">
+                        <img alt="" src="../images/idea-with-background.png">
+                    </div>
+                    <div class="span7">
+                        <p>The Information Technology and Communications Engineering Sectional Committee of the IESL
+                            organizes one of its annual competitions; the “IDEA Challenge”, to promote software
+                            development among school students and to recognize their talents as the next generation
+                            of
+                            professionals in the country. So now it’s time to show your colours to the whole country
+                            as
+                            a young mobile application developer.
+                        </p>
+                        <p>
+                            If you are enthusiastic about Android mobile application, eager to learn more about
+                            mobile
+                            application development and want to show your talents to the whole country by being a
+                            winner, then IDEA challenge is for you. Learn about mobile application development with
+                            Department of Computer Science and Engineering of University of Moratuwa, ask questions,
+                            solve your doubts, come up with an innovative IDEA, develop your own mobile application
+                            and
+                            become a winner of “IDEA Challenge 2K16”.</p>
+                    </div>
                 </div>
             </div>
 
@@ -141,43 +142,7 @@
                 </ul>
             </div>
 
-            <div class="row-fluid articles" id="articles">
-                <div class="span3">
-                    <img alt="iesl" src="../images/iesl-logo.png"
-                         style="width: 60px; height: 60px; margin-bottom: 0px"/>
-
-                    <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge
-                        by
-                        working with them.</p>
-                </div>
-
-                <div class="span3">
-                    <img alt="iesl" src="../images/iesl-logo.png"
-                         style="width: 60px; height: 60px; margin-bottom: 0px"/>
-
-                    <p><br/>Drop your doubts and solve your problems with the help of dozens.<br/><br/></p>
-                </div>
-
-                <div class="span3">
-                    <img src="../images/uom-logo.png" alt="uom" style="width: 60px; height: 60px; margin-bottom: 0px"/>
-
-                    <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them
-                        with
-                        what
-                        you have learnt.</p>
-                </div>
-
-                <div class="span3">
-                    <img src="../images/cse-logo.png" alt="cse" style="width: 60px; height: 60px; margin-bottom: 0px"/>
-
-                    <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together
-                        with
-                        latest
-                        technology.</p>
-                </div>
-            </div>
-
-            <blockquote id="blockquote2" style="margin-bottom: 10px">IDEA Challenge will promote and encourage the
+            <blockquote id="blockquote2" style="margin-bottom: 10px; margin-top: 50px">IDEA Challenge will promote and encourage the
                 School children on IT and
                 Communication Technology.
             </blockquote>
@@ -219,6 +184,12 @@ Flexslider
     })
 </script>
 <script src="../js/script.js"></script>
+
+<style type="text/css">
+    .flex-direction-nav{
+        display: none !important;
+    }
+</style>
 
 </body>
 </html>

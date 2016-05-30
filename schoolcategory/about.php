@@ -67,33 +67,7 @@
                 <div class="row-fluid">
                     <h1>A competition supported with online course module for school students on Android application
                         development organized by the institute of engineers, Sri Lanka</h1>
-
-                    <div class="span12 text" style="margin-bottom: 0px;">
-
-                        <div class="span5">
-                            <img alt="" src="../images/idea-with-background.png">
-                        </div>
-                        <div class="span7">
-                            <p>The Information Technology and Communications Engineering Sectional Committee of the IESL
-                                organizes one of its annual competitions; the “IDEA Challenge”, to promote software
-                                development among school students and to recognize their talents as the next generation
-                                of
-                                professionals in the country. So now it’s time to show your colours to the whole country
-                                as
-                                a young mobile application developer.
-                            </p>
-
-                            <p>
-                                If you are enthusiastic about Android mobile application, eager to learn more about
-                                mobile
-                                application development and want to show your talents to the whole country by being a
-                                winner, then IDEA challenge is for you. Learn about mobile application development with
-                                Department of Computer Science and Engineering of University of Moratuwa, ask questions,
-                                solve your doubts, come up with an innovative IDEA, develop your own mobile application
-                                and
-                                become a winner of “IDEA Challenge 2K16”.</p>
-                        </div>
-                    </div>
+                    
                 </div>
 
                 <div class="span12">

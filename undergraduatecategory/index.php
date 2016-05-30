@@ -51,7 +51,6 @@
                 <ul class="sf-menu">
                     <li class="active"><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
-                    <li><a href="videos.php">Videos</a></li>
                     <li><a href="register.php">Register</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
@@ -60,108 +59,59 @@
     </header>
     <!-- End Header -->
 
+    <section class="slider" >
+        <div class="flexslider container" style="margin-bottom: -20px; margin-top: -20px">
+            <img src="../images/undergraduate-banner.jpg" alt="student banner">
+        </div>
+    </section>
+
     <div id="content" style="margin-top: 30px">
         <div id="inner-content" class="container">
 
-            <div class="row-fluid articles" id="articles">
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">I</span>dentify Trends
-                    </h4>
-
-                    <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge by
-                        working with them.</p>
-                </div>
-
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">D</span>rop Doubts</h4>
-
-                    <p><br/>Drop your doubts and solve your problems with the help of dozens.</p>
-                </div>
-
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">E</span>mpower Ingenuity
-                    </h4>
-
-                    <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them with
-                        what
-                        you have learnt.</p>
-                </div>
-
-                <div class="span3">
-                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">A</span>ttain Pride</h4>
-
-                    <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together with
-                        latest
-                        technology.</p>
-                </div>
-            </div>
-
             <div class="services3 row-fluid clearfix">
-                <div>
-                    <h2>Contribute to Reforest Sri Lanka & be a winner</h2>
-
+                <div style="text-align: center; margin-bottom: 20px">
+                    <img alt="reforest" src="../images/reforest.png"/>
+                </div>
+                <div style="margin-bottom: 10px">
+                    <h2 style="text-align: center; color: #1F6D06">Contribute to Reforest Sri Lanka & be a winner</h2>
                 </div>
 
 
-<!--                <h1>Log In to our Moodle</h1>-->
-<!--                <ul class="span3">-->
-<!--                    <li class="active3">What is Moodle?</li>-->
-<!--                    <a href="../lms/login/">-->
-<!--                        <li>Log into Moodle</li>-->
-<!--                    </a>-->
-<!--                </ul>-->
-<!---->
-<!--                <ul class="wrapper span9">-->
-<!--                    <li class="displayed">-->
-<!--                        <img alt="" src="../images/moodle.png">-->
-<!---->
-<!--                        <h2>Moodle - Modular Object-Oriented Dynamic Learning Environment is an Online Learning-->
-<!--                            Management System.</h2>-->
-<!---->
-<!--                        <p>Our Moodle provides a discussion forum, an online calendar, a convenient way to share-->
-<!--                            online-->
-<!--                            news and announcements and an e-learning platform to make sure that you walk towards the-->
-<!--                            successful completion of the android application development course of ten weeks. It-->
-<!--                            will-->
-<!--                            make sure that you are ready to face “IDEA Challenge” successfully.</p>-->
-<!--                    </li>-->
-<!--                </ul>-->
             </div>
 
-            <div class="row-fluid articles" id="articles">
-                <div class="span3">
-                    <img alt="iesl" src="../images/iesl-logo.png"
-                         style="width: 60px; height: 60px; margin-bottom: 0px"/>
+            <div class="services3 row-fluid clearfix" style="margin-top: 60px;margin-bottom: 60px">
+                <div class="span12 text" style="margin-bottom: 0px;">
 
-                    <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge
-                        by
-                        working with them.</p>
+                    <div class="span5">
+                        <img alt="" src="../images/idea-with-background.png">
+                    </div>
+                    <div class="span7">
+                        <p>The Information Technology and Communications Engineering Sectional Committee of the IESL
+                            organizes one of its annual competitions; the “IDEA Challenge”, to promote software
+                            development among undergraduate students and to recognize their talents as the next
+                            generation
+                            of
+                            professionals in the country. So now it’s time to show your colours to the whole country
+                            and make your institution proud.
+                        </p>
+
+                        <p>
+                            If you are enthusiastic about Android mobile application, eager to learn more about
+                            mobile
+                            application development and want to show your talents to the whole country by being a
+                            winner, then IDEA challenge is for you. Come up with an innovative IDEA, develop your
+                            own mobile application
+                            and become a winner of “IDEA Challenge 2K16”.</p>
+                    </div>
                 </div>
+            </div>
 
-                <div class="span3">
-                    <img alt="iesl" src="../images/iesl-logo.png"
-                         style="width: 60px; height: 60px; margin-bottom: 0px"/>
-
-                    <p><br/>Drop your doubts and solve your problems with the help of dozens.<br/><br/></p>
-                </div>
-
-                <div class="span3">
-                    <img src="../images/uom-logo.png" alt="uom" style="width: 60px; height: 60px; margin-bottom: 0px"/>
-
-                    <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them
-                        with
-                        what
-                        you have learnt.</p>
-                </div>
-
-                <div class="span3">
-                    <img src="../images/cse-logo.png" alt="cse" style="width: 60px; height: 60px; margin-bottom: 0px"/>
-
-                    <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together
-                        with
-                        latest
-                        technology.</p>
-                </div>
+            <blockquote id="blockquote2" style="margin-bottom: 10px">IDEA Challenge will provide undergraduate students
+                a National Level platform to exhibit their talents on the field of IT and
+                Communication Technology.
+            </blockquote>
+            <div style="margin-bottom: 70px; float: right; font-size: 16px; padding-right: 80px">
+                <p>- Dr.Chandana Gamage, Dept. of CSE -</p>
             </div>
 
         </div>
@@ -199,6 +149,12 @@ Flexslider
     })
 </script>
 <script src="../js/script.js"></script>
+
+<style type="text/css">
+    .flex-direction-nav{
+        display: none !important;
+    }
+</style>
 
 </body>
 </html>

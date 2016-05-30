@@ -79,6 +79,38 @@
 
     <div id="content">
         <div id="inner-content" class="container">
+            <div class="row-fluid articles" id="articles" style="margin-bottom: 20px">
+                <div class="span3">
+                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">I</span>dentify Trends
+                    </h4>
+
+                    <p><br/>Identify the latest trends in the mobile application development. Expand your knowledge by
+                        working with them.</p>
+                </div>
+
+                <div class="span3">
+                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">D</span>rop Doubts</h4>
+
+                    <p><br/>Drop your doubts and solve your problems with the help of dozens.</p>
+                </div>
+
+                <div class="span3">
+                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">E</span>mpower Ingenuity
+                    </h4>
+
+                    <p><br/>Empower your creativity and ingenuity. Identify real world problems and address them with
+                        what
+                        you have learnt.</p>
+                </div>
+
+                <div class="span3">
+                    <h4 style="color: #7da817;"><span style="font-size: 40px; color: #1F6D06">A</span>ttain Pride</h4>
+
+                    <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together with
+                        latest
+                        technology.</p>
+                </div>
+            </div>
 
             <div class="services3 row-fluid clearfix">
                 <div class="span6" style="padding-right: 10px">
@@ -128,14 +160,6 @@
                     <p><br/>Attain the pride of being an innovator, a winner and a person who can stand together
                         with latest technology.</p>
                 </div>
-            </div>
-
-            <blockquote id="blockquote2" style="margin-bottom: 10px">IDEA Challenge will promote and encourage the
-                School children on IT and
-                Communication Technology.
-            </blockquote>
-            <div style="margin-bottom: 70px; float: right; font-size: 16px; padding-right: 80px">
-                <p>- Dr.Chandana Gamage, Dept. of CSE -</p>
             </div>
         </div>
     </div>

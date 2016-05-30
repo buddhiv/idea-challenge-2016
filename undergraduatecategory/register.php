@@ -50,7 +50,6 @@
                 <ul class="sf-menu">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
-                    <li><a href="videos.php">Videos</a></li>
                     <li class="active"><a href="register.php">Register</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
