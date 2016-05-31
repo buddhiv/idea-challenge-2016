@@ -63,32 +63,16 @@
         <div id="inner-content" class="container">
             <div id="about">
                 <div class="row-fluid">
-                    <h1>Registrations will be available soon!</h1>
+                    <h1>Register for the competition now!</h1>
 
-<!--                    --><?php
-//                    $dom = date('j');
-//                    $hod = date('H');
-//
-//                    if ($dom <= 30) {
-//                        ?>
-<!--                        <h3 style="margin-top: 30px; color: #7DA817; margin-bottom: 30px">Registrations close on 13th-->
-<!--                            May 2016. (--><?php //echo(13 - $dom); ?><!-- days left)</h3>-->
-<!--                        --><?php
-//                    } else {
-//                        ?>
-<!--                        <h3 style="margin-top: 30px; color: #7DA817; margin-bottom: 30px">Registrations are closed.</h3>-->
-<!--                        --><?php
-//                    }
-//                    ?>
-<!---->
-<!---->
-<!--                    <div style="overflow: hidden">-->
-<!--                        <iframe-->
-<!--                            src="https://docs.google.com/forms/d/1ErHyNQ-V5_1MyAQ4BclQ0e-4PO6xF3645kKLDdHb0Wo/viewform?embedded=true"-->
-<!--                            width="100%" height="1030" frameborder="0" marginheight="0" marginwidth="0"-->
-<!--                            style="margin-top: -180px; margin-bottom: 5px">-->
-<!--                        </iframe>-->
-<!--                    </div>-->
+                    <div style="overflow: hidden">
+                        <iframe
+                            src="https://docs.google.com/forms/d/1uMjzH3QS48WNQc8A0MFYXNYAf2ySsyG2ggB2QC4T9LY/viewform?embedded=true"
+                            width="100%" height="1030" frameborder="0" marginheight="0" marginwidth="0"
+                            style="margin-top: -180px; margin-bottom: 5px">
+                        </iframe>
+                    </div>
+
                 </div>
 
             </div>
