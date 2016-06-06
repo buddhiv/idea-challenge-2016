@@ -73,9 +73,10 @@
                                 style="color: #7da817">Reforest Sri Lanka App</a></h3>
 
                         <p>
-                            The app. will be the official mobile app. of Reforest Sri Lanka, a citizen lead
-                            reforestation society that is stepping up to protect Sri Lanka’s most valuable treasure, our
-                            forests and the ecology that is sustained by them.<br/>
+                            The app. will be the official mobile app. of <a href="http://www.reforestsrilanka.com/"
+                                                                            target="_blank">Reforest Sri Lanka</a>
+                            , a citizen lead reforestation society that is stepping up to protect Sri Lanka’s most
+                            valuable treasure, our forests and the ecology that is sustained by them.<br/>
 
                         <h5 style="margin-bottom: 10px;">Problem Statement:</h5>
 

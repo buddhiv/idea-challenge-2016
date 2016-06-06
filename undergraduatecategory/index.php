@@ -59,7 +59,7 @@
     </header>
     <!-- End Header -->
 
-    <section class="slider" >
+    <section class="slider">
         <div class="flexslider container" style="margin-bottom: -20px; margin-top: -20px">
             <img src="../images/undergraduate-banner.jpg" alt="student banner">
         </div>
@@ -70,7 +70,9 @@
 
             <div class="services3 row-fluid clearfix">
                 <div style="text-align: center; margin-bottom: 20px">
-                    <img alt="reforest" src="../images/reforest.png"/>
+                    <a href="http://www.reforestsrilanka.com/" target="_blank">
+                        <img alt="reforest" src="../images/reforest.png"/>
+                    </a>
                 </div>
                 <div style="margin-bottom: 10px">
                     <h2 style="text-align: center; color: #1F6D06">Contribute to Reforest Sri Lanka & be a winner</h2>
@@ -151,7 +153,7 @@ Flexslider
 <script src="../js/script.js"></script>
 
 <style type="text/css">
-    .flex-direction-nav{
+    .flex-direction-nav {
         display: none !important;
     }
 </style>
