@@ -63,7 +63,7 @@
         <div id="inner-content" class="container">
             <div id="about">
                 <div class="row-fluid">
-                    <h1>A competition for undergraduate students on Android application
+                    <h1>A competition for undergraduate students on Mobile application
                         development organized by the institute of engineers, Sri Lanka</h1>
                 </div>
 
@@ -72,7 +72,7 @@
                         <h3 style="margin-bottom: 30px;">System Requirement Specification for the <a
                                 style="color: #7da817">Reforest Sri Lanka App</a></h3>
 
-                        <p>
+                        <p align="justify">
                             The app. will be the official mobile app. of <a href="http://www.reforestsrilanka.com/"
                                                                             target="_blank">Reforest Sri Lanka</a>
                             , a citizen lead reforestation society that is stepping up to protect Sri Lanka’s most
@@ -80,14 +80,14 @@
 
                         <h5 style="margin-bottom: 10px;">Problem Statement:</h5>
 
-                        <p>
+                        <p align="justify">
                             Even though Sri Lanka can boast of having the world's top ICT skills in its job market, the
                             nation's public infrastructure and public services lack providing IT enabled services to
                             monitor and help sustain the environment. The number of public servants actively monitoring
                             critical environmental systems are also far and few apart, and those doing their job as
                             required, even fever.
                         </p>
-                        <p>
+                        <p align="justify">
                             A mobile app, that can link the government sector officers with citizen driven information
                             and vice versa, also enabling clear identification of lands, illegal logging, fires,
                             forests, types of trees and even perhaps the wildlife that dwell in those areas and their
@@ -97,56 +97,67 @@
                         <h5 style="margin-bottom: 10px;">Non-Functional Specification:</h5>
 
                         <p>
-                            • Support Android Jellybean and above.<br/>
-                            • Should be highly user friendly and non-technical users would use it.<br/>
-                            • Should be lightweight, using optimizes graphics, on-demand data load architecture and lazy
+                            &#9632; Support Android Jellybean and above/ Support iOS<br/>
+                            &#9632; Should be highly user friendly and non-technical users would use it.<br/>
+                            &#9632; Should be lightweight, using optimizes graphics, on-demand data load architecture and lazy
                             loading where applicable.<br/>
-                            • Should be responsive to all major android device resolutions from mobile to tabs.<br/>
-                            • Should be secure, using APIs and SSL connection encryption technologies, hashed passwords,
+                            &#9632; Should be responsive to all major android/iOS device resolutions from mobile to tabs. <br/>
+                            &#9632; Should be secure, using APIs auth and SSL connection encryption technologies, hashed passwords,
                             if possible oAuth 2.<br/>
-                            • Should work as expected in horizontal/ vertical layouts of devices.<br/>
-                            • Should scale well to support thousands of users, manage image and geo-location data in a
-                            useful way, using resources wisely.<br/>
+                            &#9632; Should work as expected in horizontal/ vertical layouts of devices.<br/>
+                            &#9632; Should scale well to support thousands of users, manage image and geo-location data in a
+                            useful way, using resources efficiently.<br/>
                         </p>
 
                         <h5 style="margin-bottom: 10px;">Functional Specification</h5>
 
                         <p>
-                            <strong>Profile</strong><br/>
-                            • Ability to use a simple authentication to identify a user.<br/>
-                            • I.e. using mobile number + email address to identify users across devices.<br/>
-                            • Send an activation email to given email, after which is verified, user is logged into
-                            device, thereby allowing a user to login to the application without passwords from multiple
+                            <strong><u><i>Profile</i></u></strong><br/>
+                            &#9632; Ability to use a simple authentication to identify a user.<br/>
+                            &nbsp;&nbsp;• I.e. using mobile number + email address to identify users across devices.<br/>
+                            &nbsp;&nbsp;• Send an activation email to given email, after which is verified, user is logged into
+                            device, thereby allowing a user to login to the application without passwords &nbsp;&nbsp;&nbsp;&nbsp;from multiple
                             devices, registering their mobile numbers + email as a required field during the
                             registration.<br/>
-                            • Allow user to manage personal details such as a profile picture, about me section.<br/>
-                            • Create a robust account recovery protocol.<br/>
-                            • I.e. use secondary a registered mobile number to receive a code, -> enter it and replace
-                            account email or such a mechanism. (Drawback, if a device is stolen, account maybe
+                            &nbsp;&nbsp;• Allow user to manage personal details such as a profile picture, about me section.<br/>
+                            &#9632; Create a robust account recovery protocol.<br/>
+                            &nbsp;&nbsp;• I.e. use secondary a registered mobile number to receive a code, -> enter it and replace
+                            account email or such a mechanism. (Drawback, if a device is stolen, &nbsp;&nbsp;&nbsp;&nbsp;account maybe
                             hacked.)<br/>
-                            • Create a mechanism to un-enroll a number.<br/>
-                            • Account -> un-enroll this device.<br/><br/>
+                            &#9632; Create a mechanism to un-enroll a number.<br/>
+                            &nbsp;&nbsp;• Account -> un-enroll this device.<br/><br/>
 
 
-                            <strong>App Cloud Interface</strong><br/>
-                            • Feature: Mark location boundaries, mark location type (i.e. forest, city, village, pond,
-                            lake, ) if forest -> forest type.<br/>
-                            • Feature: Create a reforestation event that will pop up on users maps. It will details no
-                            of plants required, types of each plants. People can pledge to bring plants/ pay for plant
+                            <strong><u><i>App Cloud Interface</u></i></strong><br/>
+                            &#9632; Feature: Mark location boundaries, mark location type (i.e. forest, city, village, pond,
+                            lake ) <br/>
+                            &nbsp;&nbsp;• if forest -> forest type.<br/>
+                            &#9632; Feature: Create a reforestation event that will pop up on users maps. It will details no
+                            of plants required, types of each plants. People can pledge to bring plants/ &nbsp;&nbsp;&nbsp;pay for plant
                             and/ or join to plant the trees.<br/><br/>
 
 
-                            <strong>For General Public</strong><br/>
-                            • Feature: Add a location.<br/>
-                            • Feature: Add location habitat information - climate, season, date and time, trees or
+                            <strong><u><i>For General Public</u></i></strong><br/>
+                            &#9632; Feature: Add a location.<br/>
+                            &#9632; Feature: Add location habitat information - climate, season, date and time, trees or
                             animals, geo information.<br/>
-                            • Feature: Add image with geo tagging and mark on google map layer, mark deforested area,
-                            location name, add more images, affected tree types, affected animal life.<br/>
-                            -> advanced feature-> propose suitable reforestation tree types using available data to fill
+                            &#9632; Feature: Add image with geo tagging and mark on google map layer, mark deforested area,
+                            location name, add more images, affected tree types, affected &nbsp;&nbsp;&nbsp;animal life.<br/>
+                            &nbsp;&nbsp;• Advanced feature-> propose suitable reforestation tree types using available data to fill
                             in reforestation trees if damage is deforestation/ degeneration<br/>
-                            • Feature: View reforestation events and add participation, types of plants donated/ money.
-                            Also share details on facebook and their pledge information prior to event. After event/
-                            during event capture photos and social share.<br/>
+                            &#9632; Feature: View reforestation events and add participation, types of plants donated/ money.
+                            Also share details on facebook and their pledge information prior to &nbsp;&nbsp;&nbsp;event. After event/
+                            during event capture photos and social share.<br/><br/>
+
+                            <strong><u><i>For Reforest Sri Lanka / approved list of entities (as users)</u></i></strong><br/>
+                            &#9632; Mark polygonal area of where trees are planted using GPS on a app.<br/>
+                            &nbsp;&nbsp;• Enter types of trees and no of trees planted.<br/>
+                            &nbsp;&nbsp;• I.e. Kumbuk - 150, Mee - 200 (date, title, user-id, gps coords mandatory).<br/>
+                            &nbsp;&nbsp;• Provide a log entry for event such as who was there, what was learned, issues faced (Even a text field is enough but try to improve)<br/>
+                            &#9632; When entering a reforested area, pop up message and view historical data<br/>
+                            &#9632; Have feature to mark area updates on site visits/ monitoring rounds to enter<br/>
+                            &nbsp;&nbsp;• Success rate, no of plants and types dead, no of plants and types re-planted, remarks, date
+                            <br/><br/>
                         </p>
                     </div>
 
@@ -155,7 +166,7 @@
 
                         <h5 style="margin-bottom: 10px;">OUR VISION</h5>
 
-                        <p>Provide an opportunity to trot out and enhance innovative and creative ideas in android
+                        <p>Provide an opportunity to trot out and enhance innovative and creative ideas in Mobile
                             application development.</p>
                     </div>
                     <div class="text">
@@ -167,10 +178,9 @@
                     <div class="text">
                         <h5 style="margin-bottom: 10px;">WHO ARE THE ORGANIZERS OF THIS EVENT?</h5>
 
-                        <p>This competition is organized by The Institution of Engineers, Sri Lanka (IESL) with Computer
+                        <p align="justify">This competition is organized by The Institution of Engineers, Sri Lanka (IESL) with Computer
                             Science and Engineering Department of University of Moratuwa for school and undergraduate
-                            students on Android
-                            Mobile Application development.
+                            students on Mobile Application development.
                             Institution of Engineers, Sri Lanka (IESL) is the largest and the apex engineering body in
                             the country. Established in 1956, currently it has an active membership around 16,000.The
                             Information Technology and Communications Engineering Sectional Committee of the IESL
@@ -187,7 +197,7 @@
                     <div class="text">
                         <h5 style="margin-bottom: 10px;">WHAT IS THE PURPOSE OF THIS EVENT?</h5>
 
-                        <p>One of the main constraints for the mobile application developers is the lack of knowledge
+                        <p align="justify">One of the main constraints for the mobile application developers is the lack of knowledge
                             and facilities.
                             Main idea of organizing this event is to
                             provide assistance for those to learn the art of mobile application development and
