@@ -5,8 +5,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/images/footer-photo.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/undergraduatecategory/about.php" afterPath="$PROJECT_DIR$/undergraduatecategory/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/undergraduatecategory/index.php" afterPath="$PROJECT_DIR$/undergraduatecategory/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/undergraduatecategory/register.php" afterPath="$PROJECT_DIR$/undergraduatecategory/register.php" />
     </list>
     <ignored path="IDEA Site.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,18 +70,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/undergraduatecategory/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
+            <state relative-caret-position="1802">
               <caret line="106" column="26" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/undergraduatecategory/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="78" column="51" selection-start-line="78" selection-start-column="51" selection-end-line="78" selection-end-column="51" />
+            <state relative-caret-position="150">
+              <caret line="76" column="56" selection-start-line="76" selection-start-column="56" selection-end-line="76" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -98,12 +97,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/undergraduatecategory/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="67" column="50" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
-              <folding />
+            <state relative-caret-position="323">
+              <caret line="67" column="53" selection-start-line="67" selection-start-column="53" selection-end-line="67" selection-end-column="53" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,9 +157,9 @@
         <option value="$PROJECT_DIR$/schoolcategory/register.php" />
         <option value="$PROJECT_DIR$/schoolcategory/index.php" />
         <option value="$PROJECT_DIR$/undergraduatecategory/contact.php" />
-        <option value="$PROJECT_DIR$/undergraduatecategory/register.php" />
         <option value="$PROJECT_DIR$/undergraduatecategory/index.php" />
         <option value="$PROJECT_DIR$/undergraduatecategory/about.php" />
+        <option value="$PROJECT_DIR$/undergraduatecategory/register.php" />
       </list>
     </option>
   </component>
@@ -205,6 +206,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -267,8 +270,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,18 +346,19 @@
       <workItem from="1463643101478" duration="3801000" />
       <workItem from="1464636216812" duration="4725000" />
       <workItem from="1464715911274" duration="611000" />
-      <workItem from="1465223953555" duration="1180000" />
+      <workItem from="1465223953555" duration="1778000" />
+      <workItem from="1466484765091" duration="350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27212000" />
+    <option name="totallyTimeSpent" value="28160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27836612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28290468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -707,17 +709,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/undergraduatecategory/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="67" column="50" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/undergraduatecategory/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
+        <state relative-caret-position="1802">
           <caret line="106" column="26" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
           <folding />
         </state>
@@ -725,9 +719,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/undergraduatecategory/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="78" column="51" selection-start-line="78" selection-start-column="51" selection-end-line="78" selection-end-column="51" />
+        <state relative-caret-position="150">
+          <caret line="76" column="56" selection-start-line="76" selection-start-column="56" selection-end-line="76" selection-end-column="56" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/undergraduatecategory/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="67" column="53" selection-start-line="67" selection-start-column="53" selection-end-line="67" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

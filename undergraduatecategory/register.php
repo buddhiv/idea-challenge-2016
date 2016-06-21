@@ -65,6 +65,8 @@
                 <div class="row-fluid">
                     <h1>Register for the competition now!</h1>
 
+                    <h3 style="margin-bottom: 30px; color: #7da817">REGISTRATION DEALINE EXTENDED TO 26th JUNE</h3>
+
                     <div style="overflow: hidden">
                         <iframe
                             src="https://docs.google.com/forms/d/1uMjzH3QS48WNQc8A0MFYXNYAf2ySsyG2ggB2QC4T9LY/viewform?embedded=true"
