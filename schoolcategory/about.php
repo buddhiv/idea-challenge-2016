@@ -67,7 +67,7 @@
                 <div class="row-fluid">
                     <h1>A competition supported with online course module for school students on Android application
                         development organized by the institute of engineers, Sri Lanka</h1>
-                    
+
                 </div>
 
                 <div class="span12">
@@ -138,7 +138,7 @@
                     <div class="text">
                         <h5 style="margin-bottom: 10px;">WHO ARE THE ORGANIZERS OF THIS EVENT?</h5>
 
-                        <p>This competition is organized by The Institution of Engineers, Sri Lanka (IESL) with Computer
+                        <p align="justify">This competition is organized by The Institution of Engineers, Sri Lanka (IESL) with Computer
                             Science and Engineering Department of University of Moratuwa for school and undergraduate students on Android
                             Mobile Application development.
                             Institution of Engineers, Sri Lanka (IESL) is the largest and the apex engineering body in
@@ -156,7 +156,7 @@
                     <div class="text">
                         <h5 style="margin-bottom: 10px;">WHAT IS THE PURPOSE OF THIS EVENT?</h5>
 
-                        <p>Most of the Sri Lankan students are interested in mobile application development but the main
+                        <p align="justify">Most of the Sri Lankan students are interested in mobile application development but the main
                             constraint for them is lack of knowledge and facilities. Only very few schools have well
                             equipped ICT laboratories and resources persons. Main idea of organizing this event is to
                             provide assistance for students to learn the art of mobile application development and

@@ -88,7 +88,7 @@
                         <img alt="" src="../images/idea-with-background.png">
                     </div>
                     <div class="span7">
-                        <p>The Information Technology and Communications Engineering Sectional Committee of the IESL
+                        <p align="justify">The Information Technology and Communications Engineering Sectional Committee of the IESL
                             organizes one of its annual competitions; the “IDEA Challenge”, to promote software
                             development among undergraduate students and to recognize their talents as the next
                             generation
@@ -97,7 +97,7 @@
                             and make your institution proud.
                         </p>
 
-                        <p>
+                        <p align="justify">
                             If you are enthusiastic about Android mobile application, eager to learn more about
                             mobile
                             application development and want to show your talents to the whole country by being a
